@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <InvariantGlobalization>true</InvariantGlobalization>
-    <RootNamespace>MicroManager.Task</RootNamespace>
+    <RootNamespace>TaskApi</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-namespace MicroManager.Task
+namespace TaskApi.Models
 {
     public class Task
     {

@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+using TaskApi.Models;
+using Task = TaskApi.Models.Task;
+
 // ReSharper disable ConvertToPrimaryConstructor
 // ReSharper disable TemplateIsNotCompileTimeConstantProblem
 
-namespace MicroManager.Task.Controllers
+namespace TaskApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
